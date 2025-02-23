@@ -81,9 +81,13 @@ The model achieved 92.8% accuracy on test data, with a balanced precision-recall
 
 🔹 F1-Score: 90.2%
 
-## Performance Graphs:
-
 ### Output Examples
+
+![image](https://github.com/user-attachments/assets/e9f72dfd-920e-413b-8a7c-b329d29cecdb)
+
+![image](https://github.com/user-attachments/assets/5d964727-793e-40aa-ba5d-39f4887a6485)
+
+![image](https://github.com/user-attachments/assets/426cd62f-4dad-4600-ae64-412f7d717d04)
 
 ## Future Improvements
 
@@ -100,11 +104,11 @@ The model achieved 92.8% accuracy on test data, with a balanced precision-recall
 
 2.Shu, K., Wang, S., & Liu, H. (2018). FakeNewsTracker: A tool for fake news collection, detection, and visualization. In Proceedings of the 27th ACM International Conference on Information and Knowledge Management (pp. 1627-1630). ACM.
 
-3.Kaliyar, R. K., Goswami, A., Narang, P., & Sinha, S. (2021). FakeBERT: Fake news detection in social media with a BERT-based deep learning approach. Multimedia Tools and Applications, 
+3.Kaliyar, R. K., Goswami, A., Narang, P., & Sinha, S. (2021). FakeBERT: Fake news detection in social media with a BERT-based deep learning approach. Multimedia Tools and Applications 
 
-4.Raza, S., & Ding, C. (2021). Fake news detection based on news content and social contexts: A transformer-based approach. International Journal of Data Science and Analytics, 12(3), 
+4.Raza, S., & Ding, C. (2021). Fake news detection based on news content and social contexts: A transformer-based approach. International Journal of Data Science and Analytics, 12(3) 
 
-5.Rubin, V. L., Chen, Y., & Conroy, N. J. (2015). Automatic deception detection: Methods for finding fake news. Proceedings of the Association for Information Science and Technology, 52(1), 1-4.
+5.Rubin, V. L., Chen, Y., & Conroy, N. J. (2015). Automatic deception detection: Methods for finding fake news. Proceedings of the Association for Information Science and Technology
 
 6. Gupta, N.S. & Rout, S.K. (2024). Enhancing Fake News Detection using Hybrid ML Models. EAI Endorsed Transactions on AI.
    
